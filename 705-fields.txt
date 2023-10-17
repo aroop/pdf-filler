@@ -1,0 +1,82 @@
+Page 1
+  Text Field 1 (Indicate the tax year(s) for which you request relief from liability of tax: )
+    └─ ""
+  Text Field 2 (First Name)
+    └─ ""
+  Text Field 3 (Initial)
+    └─ ""
+  Text Field 4 (Last Name)
+    └─ ""
+  Text Field 5 (Social Security Number)
+    └─ ""
+  Text Field 6 (Additional Information (in-care-of name and other supplemental address information))
+    └─ ""
+  Text Field 7 (PMB/Private Mailbox)
+    └─ ""
+  Text Field 8 (Street Address (number and street) or PO Box)
+    └─ ""
+  Text Field 9 (Apartment Number/ Suite Number)
+    └─ ""
+  Text Field 10 (City)
+    └─ ""
+  Text Field 11 (State)
+    └─ ""
+  Text Field 12 (ZIP Code)
+    └─ ""
+  Text Field 13 (Home Phone Number)
+    └─ ""
+  Text Field 14 (Work Phone Number)
+    └─ ""
+  Text Field 15 (Message/Other Phone Number)
+    └─ ""
+  Text Field 16 (First Name)
+    └─ ""
+  Text Field 17 (Initial)
+    └─ ""
+  Text Field 18 (Last Name)
+    └─ ""
+  Text Field 19 (Social Security Number)
+    └─ ""
+  Text Field 20 (Additional Information (in-care-of name and other supplemental address information))
+    └─ ""
+  Text Field 21 (PMB/Private Mailbox)
+    └─ ""
+  Text Field 22 (Street Address (number and street) or PO Box)
+    └─ ""
+  Text Field 23 (Apartment Number/ Suite Number)
+    └─ ""
+  Text Field 24 (City)
+    └─ ""
+  Text Field 25 (State)
+    └─ ""
+  Text Field 26 (ZIP Code)
+    └─ ""
+  Text Field 27 (Home Phone Number)
+    └─ ""
+  Text Field 28 (Work Phone Number)
+    └─ ""
+  Text Field 29 (Message/Other Phone Number)
+    └─ ""
+  Check Box 1 (Married/RDP)
+    └─ nil
+  Text Field 30 (Date Married/Registered Domestic Partner)
+    └─ ""
+  Check Box 2 (Legally Separated)
+    └─ nil
+  Check Box 3 (Divorce Pending)
+    └─ nil
+  Check Box 4 (Separated/RDP)
+    └─ nil
+  Text Field 31 (Date Separated/Registered Domestic Partner)
+    └─ ""
+  Check Box 5 (Divorced/RDP)
+    └─ nil
+  Text Field 32 (Date Divorced/RDP Termination)
+    └─ ""
+  Check Box 6 (RDP Termination Pending)
+    └─ nil
+Page 2
+  Text Field 34 (Date)
+    └─ ""
+  Text Field 33 (Email Address (optional) Enter only one Email Address.)
+    └─ ""

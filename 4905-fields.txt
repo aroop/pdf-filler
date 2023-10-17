@@ -1,0 +1,1054 @@
+Page 4
+  1012 RB
+    └─ :""
+  1011 RB
+    └─ :""
+  1010 RB
+    └─ :""
+  1009 RB
+    └─ :""
+  1008 RB
+    └─ :""
+  1007 RB
+    └─ :""
+  1006 RB
+    └─ :""
+  1005 RB
+    └─ :""
+  1004 RB
+    └─ :""
+  1003 RB
+    └─ :""
+  1002 RB
+    └─ :"0"
+  1001
+    └─ ""
+Page 5
+  2047 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  2046 (State. Enter two letter State abbreviation.)
+    └─ ""
+  2045 (City.)
+    └─ ""
+  2044 (Apartment number or suite number.)
+    └─ ""
+  2043 (Previous Street Address (Number and Street).)
+    └─ ""
+  2042 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  2041 (State. Enter two letter State abbreviation.)
+    └─ ""
+  2040 (City.)
+    └─ ""
+  2039 (Apartment number or suite number.)
+    └─ ""
+  2038 (Street Address (Number and Street).)
+    └─ ""
+  2037 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  2036 (State. Enter two letter State abbreviation.)
+    └─ ""
+  2035 (City.)
+    └─ ""
+  2034 (Apartment number or suite number.)
+    └─ ""
+  2033 (Street Address (Number and Street) or Post Office Box.)
+    └─ ""
+  2032 (Dependent 3's Relationship with taxpayer.)
+    └─ ""
+  2028 (Dependent 2's Relationship with taxpayer.)
+    └─ ""
+  2024 (Dependent 1's Relationship with taxpayer.)
+    └─ ""
+  2031 (Dependent 3's Social Security Number or Individual Taxpayer Identification Number. Enter 9 digits.)
+    └─ ""
+  2027 (Dependent 2's Social Security Number or Individual Taxpayer Identification Number. Enter 9 digits.)
+    └─ ""
+  2023 (Dependent 1's Social Security Number or Individual Taxpayer Identification Number. Enter 9 digits.)
+    └─ ""
+  2030 (Dependent 3's Date of Birth. Enter date as a two digit-month/two-digit day/four-digit year.)
+    └─ ""
+  2026 (Dependent 2's Date of Birth. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  2022 (Dependent 1's Date of Birth. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  2029 (Dependent 3 (First and Last Name).)
+    └─ ""
+  2025 (Dependent 2 (First and Last Name).)
+    └─ ""
+  2021 (Dependent 1 (First and Last Name).)
+    └─ ""
+  2020 (Spouse's or Registered Domestic Partner's Phone Number. Enter 10 digits.)
+    └─ ""
+  2019 (Spouse's or Registered Domestic Partner's Email.)
+    └─ ""
+  2018 (State. Enter two letter State abbreviation.)
+    └─ ""
+  2017 (Spouse's or Registered Domestic Partner's Driver License Number.)
+    └─ ""
+  2016 (Spouse's or Registered Domestic Partner's Date of Birth. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  2015 (Spouse's or Registered Domestic Partner's Other names and aliases ever used.)
+    └─ ""
+  2014 (Spouse's or Registered Domestic Partner's Social Security Number or Individual Taxpayer Identification Number. Enter 9 digits.)
+    └─ ""
+  2013 (Spouse's or Registered Domestic Partner's Last Name.)
+    └─ ""
+  2012 (Spouse's or Registered Domestic Partner's middle initial.)
+    └─ ""
+  2011 (Spouse's or Registered Domestic Partner's First Name.)
+    └─ ""
+  2010 (Taxpayer’s Phone Number. Enter 10 digits.)
+    └─ ""
+  2009 (Taxpayer’s Email.)
+    └─ ""
+  2008 (State. Enter two letter State abbreviation.)
+    └─ ""
+  2007 (Taxpayer’s Driver License Number.)
+    └─ ""
+  2006 (Taxpayer’s Date of Birth. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  2005 (Taxpayer’s Other names and aliases ever used.)
+    └─ ""
+  2004 (Taxpayer’s Social Security Number or Individual Taxpayer Identification Number. Enter 9 digits.)
+    └─ ""
+  2003 (Taxpayer’s Last Name.)
+    └─ ""
+  2002 (Taxpayer’s middle initial.)
+    └─ ""
+  2001 (Taxpayer’s First Name.)
+    └─ ""
+Page 6
+  3056 CB (Doctorate degree.)
+    └─ nil
+  3054 CB (Master’s degree.)
+    └─ nil
+  3052 CB (Bachelor’s degree.)
+    └─ nil
+  3050 CB (Associate’s degree.)
+    └─ nil
+  3049 CB (Some college, no degree.)
+    └─ nil
+  3048 CB (High school graduate or equivalent.)
+    └─ nil
+  3047 CB (Less than high school.)
+    └─ nil
+  3027 CB (Paid. Semi-monthly.)
+    └─ nil
+  3026 CB (Paid. Monthly.)
+    └─ nil
+  3025 CB (Paid. Biweekly.)
+    └─ nil
+  3024 CB (Paid. Weekly.)
+    └─ nil
+  3023 CB (Position. Sole Proprietor.)
+    └─ nil
+  3022 CB (Position. Officer.)
+    └─ nil
+  3021 CB (Position. Partner.)
+    └─ nil
+  3020 CB (Position. Wage Earner Hourly.)
+    └─ nil
+  3019 CB (Position. Wage Earner Salaried.)
+    └─ nil
+  3057 (Doctorate degree in:)
+    └─ ""
+  3055 (Master’s degree in:)
+    └─ ""
+  3053 (Bachelor’s degree in:)
+    └─ ""
+  3051 (Associate’s degree in:)
+    └─ ""
+  3046 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  3040 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  3034 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  3018 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  3045 (State. Enter two letter State abbreviation.)
+    └─ ""
+  3039 (State. Enter two letter State abbreviation.)
+    └─ ""
+  3033 (State. Enter two letter State abbreviation.)
+    └─ ""
+  3017 (State. Enter two letter State abbreviation.)
+    └─ ""
+  3044 (City.)
+    └─ ""
+  3038 (City.)
+    └─ ""
+  3032 (City.)
+    └─ ""
+  3016 (City.)
+    └─ ""
+  3043 (Occupation.)
+    └─ ""
+  3037 (Occupation.)
+    └─ ""
+  3031 (Occupation.)
+    └─ ""
+  3015 (Street Address (Number and Street) or Post Office Box.)
+    └─ ""
+  3014 (How Long Employed (Years/Months).)
+    └─ ""
+  3013 (Occupation.)
+    └─ ""
+  3011 (Business Phone Number. Enter 10 digits.)
+    └─ ""
+  3042 (How Long Employed (Years/Months).)
+    └─ ""
+  3036 (How Long Employed (Years/Months).)
+    └─ ""
+  3030 (How Long Employed (Years/Months).)
+    └─ ""
+  3041 (Taxpayer’s Employer or Business Name 3 .)
+    └─ ""
+  3035 (Taxpayer’s Employer or Business Name 2 .)
+    └─ ""
+  3028 (Taxpayer’s Employer or Business Name 1 .)
+    └─ ""
+  3010 (Taxpayer’s Employer or Business Name.)
+    └─ ""
+  3009 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  3008 (State. Enter two letter State abbreviation.)
+    └─ ""
+  3006 (City.)
+    └─ ""
+  3005 (Fax number. Enter 10 digits.)
+    └─ ""
+  3004 (Street Address (Number and Street) or Post Office Box.)
+    └─ ""
+  3003 (Phone number. Enter 10 digits.)
+    └─ ""
+  3002 (Title. )
+    └─ ""
+  3001 (Primary Representative’s Name (First Name, Middle Initial, and Last Name).)
+    └─ ""
+  3007 (Email Address.)
+    └─ ""
+  3012 RB
+    └─ :""
+  3029 RB
+    └─ :""
+  3058 (Year highest level of education was completed:)
+    └─ ""
+Page 7
+  4049 (Year highest level of education was completed:)
+    └─ ""
+  4020 RB
+    └─ :""
+  4003 RB
+    └─ :""
+  4047 CB (Doctorate degree.)
+    └─ nil
+  4045 CB (Master’s degree.)
+    └─ nil
+  4043 CB (Bachelor’s degree.)
+    └─ nil
+  4041 CB (Associate’s degree.)
+    └─ nil
+  4040 CB (Some college, no degree.)
+    └─ nil
+  4039 CB (High school graduate or equivalent.)
+    └─ nil
+  4038 CB (Less than high school.)
+    └─ nil
+  4018 CB (Paid. Semi-monthly.)
+    └─ nil
+  4017 CB (Paid. Monthly.)
+    └─ nil
+  4016 CB (Paid. Biweekly.)
+    └─ nil
+  4015 CB (Paid. Weekly.)
+    └─ nil
+  4014 CB (Position. Sole Proprietor.)
+    └─ nil
+  4013 CB (Position. Officer.)
+    └─ nil
+  4012 CB (Position. Partner.)
+    └─ nil
+  4011 CB (Position. Wage Earner Hourly.)
+    └─ nil
+  4010 CB (Position. Wage Earner Salaried.)
+    └─ nil
+  4048 (Doctorate degree in:)
+    └─ ""
+  4046 (Master’s degree in:)
+    └─ ""
+  4044 (Bachelor’s degree in:)
+    └─ ""
+  4042 (Associate’s degree in:)
+    └─ ""
+  4037 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  4031 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  4025 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  4036 (State. Enter two letter State abbreviation.)
+    └─ ""
+  4030 (State. Enter two letter State abbreviation.)
+    └─ ""
+  4024 (State. Enter two letter State abbreviation.)
+    └─ ""
+  4035 (City.)
+    └─ ""
+  4029 (City.)
+    └─ ""
+  4023 (City.)
+    └─ ""
+  4034 (Occupation.)
+    └─ ""
+  4028 (Occupation.)
+    └─ ""
+  4022 (Occupation.)
+    └─ ""
+  4033 (How Long Employed (Years/Months).)
+    └─ ""
+  4027 (How Long Employed (Years/Months).)
+    └─ ""
+  4021 (How Long Employed (Years/Months).)
+    └─ ""
+  4032 (Spouse’s or Registered Domestic Partner's Employer or Business Name 3 .)
+    └─ ""
+  4026 (Spouse’s or Registered Domestic Partner's Employer or Business Name 2 .)
+    └─ ""
+  4019 (Spouse’s/RDP’s Employer or Business Name 1 .)
+    └─ ""
+  4009 (ZIP code. Enter first 5 digits - last 4 digits.)
+    └─ ""
+  4008 (State. Enter two letter State abbreviation.)
+    └─ ""
+  4007 (City.)
+    └─ ""
+  4006 (Street Address (Number and Street) or Post Office Box.)
+    └─ ""
+  4005 (How Long Employed (Years/Months).)
+    └─ ""
+  4002 (Spouse’s or Registered Domestic Partner's Business Phone Number. Enter 10 digits.)
+    └─ ""
+  4004 (Occupation.)
+    └─ ""
+  4001 (Spouse’s or Registered Domestic Partner's Employer or Business Name.)
+    └─ ""
+Page 8
+  5001 (First Institution Name.)
+    └─ ""
+  5002 (First Type of Account Checking or Saving.)
+    └─ ""
+  5003 (First Account Number.)
+    └─ ""
+  5004 (First Balance amount.)
+    └─ ""
+  5005 (Second Institution Name.)
+    └─ ""
+  5006 (Second Type of Account Checking or Saving.)
+    └─ ""
+  5007 (Second Account Number.)
+    └─ ""
+  5008 (Second Balance amount.)
+    └─ ""
+  5009 (Third Institution Name.)
+    └─ ""
+  5010 (Third Type of Account Checking or Saving.)
+    └─ ""
+  5011 (Third  Account Number.)
+    └─ ""
+  5012 (Third Balance amount.)
+    └─ ""
+  5013 (Fourth Institution Name.)
+    └─ ""
+  5014 (Fourth Type of Account Checking or Saving.)
+    └─ ""
+  5015 (Fourth Account Number.)
+    └─ ""
+  5016 (Fourth Balance amount.)
+    └─ ""
+  5017 (Fifth Institution Name.)
+    └─ ""
+  5018 (Fifth Type of Account Checking or Saving.)
+    └─ ""
+  5019 (Fifth Account Number.)
+    └─ ""
+  5020 (Fifth Balance amount.)
+    └─ ""
+  5021 (Total. Enter this amount on Section 4, line 2, (Asset and Liability Analysis) of this application.)
+    └─ ""
+  5022 (First Automobiles, Trucks, and Other Vehicles Year, Manufacturer and Model.)
+    └─ ""
+  5023 (First Automobiles, Trucks, and Other Vehicles License Plate Number.)
+    └─ ""
+  5024 (First Automobiles, Trucks, and Other Vehicles Lender or Pink Slip older.)
+    └─ ""
+  5025 CB (First Automobiles, Trucks, and Other Vehicles. Lease.)
+    └─ nil
+  5026 CB (First Automobiles, Trucks, and Other Vehicles. Own.)
+    └─ nil
+  5027 (First Automobiles, Trucks, and Other Vehicles Current Market Value.)
+    └─ ""
+  5028 (First Automobiles, Trucks, and Other Vehicles Current Payoff.)
+    └─ ""
+  5029 (First Automobiles, Trucks, and Other Vehicles Available Equity.)
+    └─ ""
+  5030 (Second Automobiles, Trucks, and Other Vehicles Year, Manufacturer and Model.)
+    └─ ""
+  5031 (Second Automobiles, Trucks, and Other Vehicles License Plate Number.)
+    └─ ""
+  5032 (Second Automobiles, Trucks, and Other Vehicles Lender or Pink Slip older.)
+    └─ ""
+  5033 CB (Second Automobiles, Trucks, and Other Vehicles Lender. Lease.)
+    └─ nil
+  5034 CB (Second Automobiles, Trucks, and Other Vehicles Lender. Own.)
+    └─ nil
+  5035 (Second Automobiles, Trucks, and Other Vehicles Current Market Value.)
+    └─ ""
+  5036 (Second Automobiles, Trucks, and Other Vehicles Current Payoff.)
+    └─ ""
+  5037 (Second Automobiles, Trucks, and Other Vehicles Available Equity.)
+    └─ ""
+  5038 (Third Automobiles, Trucks, and Other Vehicles Year, Manufacturer and Model.)
+    └─ ""
+  5039 (Third Automobiles, Trucks, and Other Vehicles License Plate Number.)
+    └─ ""
+  5040 (Third Automobiles, Trucks, and Other Vehicles Lender or Pink Slip older.)
+    └─ ""
+  5041 CB (Third Automobiles, Trucks, and Other Vehicles Lender. Lease.)
+    └─ nil
+  5042 CB (Third Automobiles, Trucks, and Other Vehicles Lender. Own.)
+    └─ nil
+  5043 (Third Automobiles, Trucks, and Other Vehicles Current Market Value.)
+    └─ ""
+  5044 (Third Automobiles, Trucks, and Other Vehicles Current Payoff.)
+    └─ ""
+  5045 (Third Automobiles, Trucks, and Other Vehicles Available Equity.)
+    └─ ""
+  5046 (Fourth Automobiles, Trucks, and Other Vehicles Year, Manufacturer and Model.)
+    └─ ""
+  5047 (Fourth Automobiles, Trucks, and Other Vehicles License Plate Number.)
+    └─ ""
+  5048 (Fourth Automobiles, Trucks, and Other Vehicles Lender or Pink Slip older.)
+    └─ ""
+  5049 CB (Fourth Automobiles, Trucks, and Other Vehicles Lender. Lease.)
+    └─ nil
+  5050 CB (Third Automobiles, Trucks, and Other Vehicles Lender. Own.)
+    └─ nil
+  5051 (Fourth Automobiles, Trucks, and Other Vehicles Current Market Value.)
+    └─ ""
+  5052 (Fourth Automobiles, Trucks, and Other Vehicles Current Payoff.)
+    └─ ""
+  5053 (Fourth Automobiles, Trucks, and Other Vehicles Available Equity.)
+    └─ ""
+  5054 (Total. Enter this amount on Section 4, line 3, (Asset and Liability Analysis) of this application.)
+    └─ ""
+  5055 (First Life Insurance Policy. Insurance Company Name.)
+    └─ ""
+  5056 (First Life Insurance Policy. Insurance Policy Number.)
+    └─ ""
+  5057 (First Life Insurance Policy. Insurance Type.)
+    └─ ""
+  5058 (First Life Insurance Policy. Insurance Policy Amount.)
+    └─ ""
+  5059 (First Life Insurance Policy. Insurance Policy Loan or Cash Surrender Value.)
+    └─ ""
+  5060 (Second Life Insurance Policy. Insurance Company Name.)
+    └─ ""
+  5061 (Second Life Insurance Policy. Insurance Policy Number.)
+    └─ ""
+  5062 (Second Life Insurance Policy. Insurance Type.)
+    └─ ""
+  5063 (Second Life Insurance Policy. Insurance Policy Amount.)
+    └─ ""
+  5064 (Second Life Insurance Policy. Insurance Policy Loan or Cash Surrender Value.)
+    └─ ""
+  5065 (Third Life Insurance Policy. Insurance Company Name.)
+    └─ ""
+  5066 (Third Life Insurance Policy. Insurance Policy Number.)
+    └─ ""
+  5067 (Third Life Insurance Policy. Insurance Type.)
+    └─ ""
+  5068 (Third Life Insurance Policy. Insurance Policy Amount.)
+    └─ ""
+  5069 (Third Life Insurance Policy. Insurance Policy Loan or Cash Surrender Value.)
+    └─ ""
+  5070 (Total. Enter this amount on Section 4, line 4, (Asset and Liability Analysis) of this application.)
+    └─ ""
+Page 9
+  6001 (First Securities. Name of Security Type (Stocks, bonds, etcetera.))
+    └─ ""
+  6002 (First Securities. Location/Digital Currency Exchange Number.)
+    └─ ""
+  6004 (First Securities. Quantity or Denomination.)
+    └─ ""
+  6005 (First Securities. Current Value.)
+    └─ ""
+  6006 (Second Securities. Name of Security Type (Stocks, bonds, etcetera.))
+    └─ ""
+  6007 (Second Securities. Location/Digital Currency Exchange Number.)
+    └─ ""
+  6009 (Second Securities. Quantity or Denomination.)
+    └─ ""
+  6010 (Second Securities. Current Value.)
+    └─ ""
+  6011 (Third Securities. Name of Security Type (Stocks, bonds, etcetera.))
+    └─ ""
+  6012 (Third Securities. Location/Digital Currency Exchange Number.)
+    └─ ""
+  6014 (Third Securities. Quantity or Denomination.)
+    └─ ""
+  6015 (Third Securities. Current Value.)
+    └─ ""
+  6016 (Fourth Securities. Name of Security Type (Stocks, bonds, etcetera.))
+    └─ ""
+  6017 (Fourth Securities. Location/Digital Currency Exchange Number.)
+    └─ ""
+  6019 (Fourth Securities. Quantity or Denomination.)
+    └─ ""
+  6020 (Fourth Securities. Current Value.)
+    └─ ""
+  6021 (Total. Enter this amount on Section 4, line 5, (Asset and Liability Analysis) of this application.)
+    └─ ""
+  6022 (First Safe Deposit Boxes Institution Name and Address.)
+    └─ ""
+  6023 (First Safe Deposit Boxes List of Contents.)
+    └─ ""
+  6024 (First Safe Deposit Boxes Current Value of Assets.)
+    └─ ""
+  6025 (Second Safe Deposit Boxes Institution Name and Address.)
+    └─ ""
+  6026 (Second Safe Deposit Boxes List of Contents.)
+    └─ ""
+  6027 (Second Safe Deposit Boxes Current Value of Assets.)
+    └─ ""
+  6028 (Total. Enter this amount on Section 4, line 6, (Asset and Liability Analysis) of this application.)
+    └─ ""
+  6029 (First Real Estate (Residential, Commercial, and Undeveloped Land) Property Address/Assessor Parcel Number.)
+    └─ ""
+  6030 (First Real Estate (Residential, Commercial, and Undeveloped Land) Purchase Price.)
+    └─ ""
+  6031 (First Real Estate (Residential, Commercial, and Undeveloped Land) Fair Market Value.)
+    └─ ""
+  6032 (First Real Estate (Residential, Commercial, and Undeveloped Land) Balance Due on Mortgage.)
+    └─ ""
+  6033 (First Real Estate (Residential, Commercial, and Undeveloped Land) Equity Value.)
+    └─ ""
+  6034 (Second Real Estate (Residential, Commercial, and Undeveloped Land) Property Address/Assessor Parcel Number.)
+    └─ ""
+  6035 (Second Real Estate (Residential, Commercial, and Undeveloped Land) Purchase Price.)
+    └─ ""
+  6036 (Second Real Estate (Residential, Commercial, and Undeveloped Land) Fair Market Value.)
+    └─ ""
+  6037 (Second Real Estate (Residential, Commercial, and Undeveloped Land) Balance Due on Mortgage.)
+    └─ ""
+  6038 (Second Real Estate (Residential, Commercial, and Undeveloped Land) Equity Value.)
+    └─ ""
+  6039 (Third Real Estate (Residential, Commercial, and Undeveloped Land) Property Address/Assessor Parcel Number.)
+    └─ ""
+  6040 (Third Real Estate (Residential, Commercial, and Undeveloped Land) Purchase Price.)
+    └─ ""
+  6041 (Third Real Estate (Residential, Commercial, and Undeveloped Land) Fair Market Value.)
+    └─ ""
+  6042 (Third Real Estate (Residential, Commercial, and Undeveloped Land) Balance Due on Mortgage.)
+    └─ ""
+  6043 (Third Real Estate (Residential, Commercial, and Undeveloped Land) Equity Value.)
+    └─ ""
+  6044 (Real Estate (Residential, Commercial, and Undeveloped Land) Total Purchase Price.)
+    └─ ""
+  6045 (Real Estate (Residential, Commercial, and Undeveloped Land) Total Fair Market Value.)
+    └─ ""
+  6046 (Real Estate (Residential, Commercial, and Undeveloped Land) Total Balance Due on Mortgage.)
+    └─ ""
+  6047 (Real Estate (Residential, Commercial, and Undeveloped Land) Total Equity Value.)
+    └─ ""
+  6048 (First Affiliated Business and Trusts. Name of Business or Trust.)
+    └─ ""
+  6049 (First Affiliated Business and Trusts. FEIN or FTB ID.)
+    └─ ""
+  6050 (First Affiliated Business and Trusts. Affiliation or Position.)
+    └─ ""
+  6051 (Second Affiliated Business and Trusts. Name of Business or Trust.)
+    └─ ""
+  6052 (Second Affiliated Business and Trusts. FEIN or FTB ID.)
+    └─ ""
+  6053 (Second Affiliated Business and Trusts. Affiliation or Position.)
+    └─ ""
+  6054 (Third Affiliated Business and Trusts. Name of Business or Trust.)
+    └─ ""
+  6055 (Third Affiliated Business and Trusts. FEIN or FTB ID.)
+    └─ ""
+  6056 (Third Affiliated Business and Trusts. Affiliation or Position.)
+    └─ ""
+  6057 (Outstanding loans from business or trust.)
+    └─ ""
+  6058 (Loan Amount.)
+    └─ ""
+  6059 (Loan Date. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  6060 (How were the loans used?)
+    └─ ""
+Page 10
+  7001 (First Lines of Credit and Credit Cards' type of Account.)
+    └─ ""
+  7002 (First Lines of Credit and Credit Cards' Name and Address of Credit Grantor.)
+    └─ ""
+  7003 (First Lines of Credit and Credit Cards Minimum Monthly Payment.)
+    └─ ""
+  7004 (First Lines of Credit and Credit Cards Credit Limit.)
+    └─ ""
+  7005 (First Lines of Credit and Credit Cards' Credit Availability.)
+    └─ ""
+  7006 (First Lines of Credit and Credit Cards' Amount Owed.)
+    └─ ""
+  7007 (Second Lines of Credit and Credit Cards' type of Account)
+    └─ ""
+  7008 (Second Lines of Credit and Credit Cards' Name and Address of Credit Grantor)
+    └─ ""
+  7009 (Second Lines of Credit and Credit Cards Minimum Monthly Payment)
+    └─ ""
+  7010 (Second Lines of Credit and Credit Cards Credit Limit)
+    └─ ""
+  7011 (Second Lines of Credit and Credit Cards' Credit Availability)
+    └─ ""
+  7012 (Second Lines of Credit and Credit Cards' Amount Owed)
+    └─ ""
+  7013 (Third Lines of Credit and Credit Cards' type of Account)
+    └─ ""
+  7014 (Third Lines of Credit and Credit Cards' Name and Address of Credit Grantor)
+    └─ ""
+  7015 (Third Lines of Credit and Credit Cards Minimum Monthly Payment)
+    └─ ""
+  7016 (Third Lines of Credit and Credit Cards Credit Limit)
+    └─ ""
+  7017 (Third Lines of Credit and Credit Cards' Credit Availability)
+    └─ ""
+  7018 (Third Lines of Credit and Credit Cards' Amount Owed)
+    └─ ""
+  7019 (Fourth Lines of Credit and Credit Cards' type of Account)
+    └─ ""
+  7020 (Fourth Lines of Credit and Credit Cards' Name and Address of Credit Grantor)
+    └─ ""
+  7021 (Fourth Lines of Credit and Credit Cards Minimum Monthly Payment)
+    └─ ""
+  7022 (Fourth Lines of Credit and Credit Cards Credit Limit)
+    └─ ""
+  7023 (Fourth Lines of Credit and Credit Cards' Credit Availability)
+    └─ ""
+  7024 (Fourth Lines of Credit and Credit Cards' Amount Owed)
+    └─ ""
+  7025 (Fifth Lines of Credit and Credit Cards' type of Account)
+    └─ ""
+  7026 (Fifth Lines of Credit and Credit Cards' Name and Address of Credit Grantor)
+    └─ ""
+  7027 (Fifth Lines of Credit and Credit Cards Minimum Monthly Payment)
+    └─ ""
+  7028 (Fifth Lines of Credit and Credit Cards Credit Limit)
+    └─ ""
+  7029 (Fifth Lines of Credit and Credit Cards' Credit Availability)
+    └─ ""
+  7030 (Fifth Lines of Credit and Credit Cards' Amount Owed)
+    └─ ""
+  7031 (Sixth Lines of Credit and Credit Cards' type of Account)
+    └─ ""
+  7032 (Sixth Lines of Credit and Credit Cards' Name and Address of Credit Grantor)
+    └─ ""
+  7033 (Sixth Lines of Credit and Credit Cards Minimum Monthly Payment)
+    └─ ""
+  7034 (Sixth Lines of Credit and Credit Cards Credit Limit)
+    └─ ""
+  7035 (Sixth Lines of Credit and Credit Cards' Credit Availability)
+    └─ ""
+  7036 (Sixth Lines of Credit and Credit Cards' Amount Owed)
+    └─ ""
+  7037 (Total Payments. Enter total of payments on Section 5, Line 32 of this application.)
+    └─ ""
+  7038 (Total Owed. Enter total owed on Section 4, Line 22 of this application.)
+    └─ ""
+  7039 RB
+    └─ :""
+  7040 (Court Orders. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7041 RB
+    └─ :""
+  7042 (Repossessions. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7043 RB
+    └─ :""
+  7044 (Anticipated increase in income. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7045 RB
+    └─ :""
+  7046 (Bankruptcies/receiverships. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7047 RB
+    └─ :""
+  7048 (Recent transfer of assets. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7049 RB
+    └─ :""
+  7050 (Beneficiary to trust, estate, profit sharing, etcetera. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7051 (The Last year California income tax return filed.)
+    └─ ""
+  7052 (Last California income tax return filed. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7053 (Total exemptions you claim from return.)
+    └─ ""
+  7054 (Total exemptions you claim from return. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+  7055 (Adjusted gross income from return.)
+    └─ ""
+  7056 (Adjusted gross income from return. Total exemptions you claim from return. Provide dates, explanation, and documentation if needed.)
+    └─ ""
+Page 11
+  8036 (Line 28. Total liabilities.)
+    └─ ""
+  8035 (Line 27. Other liabilities amount.)
+    └─ ""
+  8033 (Line 26. Other liabilities amount.)
+    └─ ""
+  8031 (Line 25. Other liabilities amount.)
+    └─ ""
+  8034 (Line 27. Other liabilities name.)
+    └─ ""
+  8032 (Line 26. Other liabilities name.)
+    └─ ""
+  8030 (Line 25. Other liabilities name.)
+    └─ ""
+  8028 (Line 24. Other liabilities name.)
+    └─ ""
+  8029 (Line 24. Other liabilities amount.)
+    └─ ""
+  8027 (Line 23. Taxes owed to IRS (provide a copy of recent notices).)
+    └─ ""
+  8026 (Line 22. Total owed for lines of credit (from Section 3, Part H).)
+    └─ ""
+  8025 (Line 21. Sum total of assets (equity and other).)
+    └─ ""
+  8024 (Line 20. Total Other assets.)
+    └─ ""
+  8023 (Line 19. Other assets amount.)
+    └─ ""
+  8021 (Line 18. Other assets amount.)
+    └─ ""
+  8019 (Line 17. Other assets amount.)
+    └─ ""
+  8022 (Line 19. Other assets name.)
+    └─ ""
+  8020 (Line 18. Other assets name.)
+    └─ ""
+  8018 (Line 17. Other assets name.)
+    └─ ""
+  8016 (Line 16. Other assets name.)
+    └─ ""
+  8017 (Line 16. Other assets amount.)
+    └─ ""
+  8015 (Line 15. Interest in business entities.)
+    └─ ""
+  8014 (Line 14. Interest in estates.)
+    └─ ""
+  8013 (Line 13. Interest in trusts (for example, trustee, trustor, beneficiary, etcetera, regardless of value).)
+    └─ ""
+  8012 (Line 12. Aircraft, watercraft.)
+    └─ ""
+  8011 (Line 11.  Judgements/settlements receivable.)
+    └─ ""
+  8010 (Line 10. Accounts receivable.)
+    └─ ""
+  8009 (Line 9. Other Assets. Notes (promissory notes, Treasury notes, etcetera.))
+    └─ ""
+  8008 (Line 8. Total Equity of Real Estate. Enter from Section 3, Part F.)
+    └─ ""
+  8007 (Line 7. Total Assets.)
+    └─ ""
+  8006 (Line 6. Safe deposit box value of contents (from Section 3, Part E).)
+    └─ ""
+  8005 (Line 5. Securities (from Section 3, Part D).)
+    └─ ""
+  8004 (Line 4. Loan/cash surrender value of life insurance (from Section 3, Part C).)
+    └─ ""
+  8003 (Line 3. Vehicles/available equity (from Section 3, Part B).)
+    └─ ""
+  8002 (Line 2. Bank accounts/balance (from Section 3, Part A).)
+    └─ ""
+  8001 (Line 1. Cash.)
+    └─ ""
+Page 12
+  9054 (Line 36. Difference Between Total Monthly Net Income and Total Monthly Expenses. Expenses Amount.)
+    └─ ""
+  9053 (Line 35. Total Monthly Expenses. Expenses Amount.)
+    └─ ""
+  9052 (Line 34. Other expenses. Expenses Amount.)
+    └─ ""
+  9051 (Line 34. Other expenses. List type.)
+    └─ ""
+  9050 (Line 33. Other expenses. Expenses Amount.)
+    └─ ""
+  9049 (Line 33. Other expenses. List type.)
+    └─ ""
+  9048 (Line 32. Credit card payments. Expenses Amount.)
+    └─ ""
+  9047 (Line 31. Delinquent tax (taxes not owed to FTB). Expenses Amount.)
+    └─ ""
+  9046 (Line 30. Garnishments (if not deducted from your paycheck). Expenses Amount.)
+    └─ ""
+  9045 (Line 29. Court-ordered payments (alimony, child support, restitution). Expenses Amount.)
+    └─ ""
+  9044 (Line 28. Estimated tax payments (if not deducted from paycheck). Expenses Amount.)
+    └─ ""
+  9043 (Line 27. Medical payments (not covered by insurance). Expenses Amount.)
+    └─ ""
+  9042 (Line 26. Life/health insurance (if not deducted from paycheck) Expenses Amount.)
+    └─ ""
+  9041 (Line 25. Gasoline. Expenses Amount.)
+    └─ ""
+  9040 (Line 25. Gasoline, number of miles to work.)
+    └─ ""
+  9039 (Line 24. Auto insurance.)
+    └─ ""
+  9038 (Line 23. Auto payments.)
+    └─ ""
+  9037 (Line 22d. Total amount of Trash and Sewer bills. Expenses Amount.)
+    └─ ""
+  9036 (Line 22d. and Sewer Bill.)
+    └─ ""
+  9035 (Line 22. Utilities. 22d. Trash bill.)
+    └─ ""
+  9034 (Line 22c. Total amount of Gas  and Water bills. Expenses Amount.)
+    └─ ""
+  9033 (Line 22c. and Water bill.)
+    └─ ""
+  9032 (Line 22. Utilities. 22c. Gas bill.)
+    └─ ""
+  9031 (Line 22b. Total amount of Electric and Phone. Expenses Amount.)
+    └─ ""
+  9030 (Line 22b. and Phone bill.)
+    └─ ""
+  9029 (Line 22. Utilities. 22b. Electric bill. )
+    └─ ""
+  9025 (Line 21. Groceries. Expenses Amount.)
+    └─ ""
+  9024 (Line 21. Groceries, number of people.)
+    └─ ""
+  9023 (Line 20. Total amount of Home insurance & association fees. Expenses Amount.)
+    └─ ""
+  9022 (Line 20. and Association fees amount.)
+    └─ ""
+  9021 (Line 20. Home insurance amount.)
+    └─ ""
+  9020 (Line 19. Real estate taxes. Expenses Amount.)
+    └─ ""
+  9019 (Line 18. Rent/mortgage. Expenses Amount.)
+    └─ ""
+  9018 (Line 17. Total Income. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9017 (Line 16. Other household Income. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9016 (Line 16. Other household income resource. )
+    └─ ""
+  9015 (Line 15. Social Security. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9014 (Line 14. Disability. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9013 (Line 13. Unemployment. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9012 (Line 12. Alimony. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9011 (Line 11. Child support. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9010 (Line 10. Payments from trust/partnerships/entities. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9009 (Line 9. Interest/dividends/royalties. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9008 (Line 8. Rental income. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9007 (Line 7. Business income. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9006 (Line 6. Overtime/bonuses/commissions for Spouse or Registered Domestic Partner. Monthly Net (NOT Gross) Income.)
+    └─ ""
+  9005 (Line 5. Pension for Spouse or Registered Domestic Partner. Monthly Net (not gross) Income.)
+    └─ ""
+  9004 (Line 4. Wages/salaries, tips, etcetera for Spouse or Registered Domestic Partner. Monthly Net (not gross) Income.)
+    └─ ""
+  9003 (Line 3. Overtime/bonuses/commissions for taxpayer. Monthly Net (not gross) Income.)
+    └─ ""
+  9002 (Line 2. Pension for taxpayer. Monthly Net (not gross) Income.)
+    └─ ""
+  9001 (Line 1. Wages/salaries, tips, etc. for taxpayer. Monthly Net (not gross) Income.)
+    └─ ""
+  9026 (Line 22. Utilities. 22a. Cable bill. )
+    └─ ""
+  9027 (Line 22a. and Internet bill.)
+    └─ ""
+  9028 (Line 22a. Total amount of Cable and Internet. Expenses Amount.)
+    └─ ""
+Page 13
+  10001 (Third year income summary date. Enter 4 digits. )
+    └─ ""
+  10002 (Last year income summary date. Enter 4 digits. )
+    └─ ""
+  10003 (Current year income summary date. Enter 4 digits. )
+    └─ ""
+  10004 (Line 1. Third year, Wages/salaries, tips, etcetera for taxpayer.)
+    └─ ""
+  10005 (Line 1. Last year, Wages/salaries, tips, etcetera for taxpayer.)
+    └─ ""
+  10006 (Line 1. Current year to date, Wages/salaries, tips, etcetera for taxpayer.)
+    └─ ""
+  10007 (Line 2. Third year, pension for taxpayer.)
+    └─ ""
+  10008 (Line 2. Last year, pension for taxpayer.)
+    └─ ""
+  10009 (Line 2. Current year to date, pension for taxpayer.)
+    └─ ""
+  10010 (Line 3. Third year, Overtime/bonuses/commissions for taxpayer.)
+    └─ ""
+  10011 (Line 3. Last year, Overtime/bonuses/commissions for taxpayer.)
+    └─ ""
+  10012 (Line 3. Current year to date, Overtime/bonuses/commissions for taxpayer.)
+    └─ ""
+  10013 (Line 4. Third year,  Wages/salaries for Spouse or Registered Domestic Partner)
+    └─ ""
+  10014 (Line 4. Last year, Wages/salaries for Spouse or Registered Domestic Partner)
+    └─ ""
+  10015 (Line 4. Current year to date, Wages/salaries for Spouse or Registered Domestic Partner)
+    └─ ""
+  10016 (Line 5. Third year,  Pension for Spouse or Registered Domestic Partner)
+    └─ ""
+  10017 (Line 5. Last year, Pension for Spouse or Registered Domestic Partner)
+    └─ ""
+  10018 (Line 5. Current year to date, Pension for Spouse or Registered Domestic Partner)
+    └─ ""
+  10019 (Line 6. Third year,  Overtime/bonuses/commissions for Spouse or Registered Domestic Partner)
+    └─ ""
+  10020 (Line 6. Last year, Overtime/bonuses/commissions for Spouse or Registered Domestic Partner)
+    └─ ""
+  10021 (Line 6. Current year to date, Overtime/bonuses/commissions for Spouse or Registered Domestic Partner)
+    └─ ""
+  10022 (Line 7. Third year,  Business income)
+    └─ ""
+  10023 (Line 7. Last year, Business income)
+    └─ ""
+  10024 (Line 7. Current year to date, Business income)
+    └─ ""
+  10025 (Line 8. Third year,  Rental income)
+    └─ ""
+  10026 (Line 8. Last year, Rental income)
+    └─ ""
+  10027 (Line 8. Current year to date, Rental income)
+    └─ ""
+  10028 (Line 9. Third year, Interest/dividends/royalties.)
+    └─ ""
+  10029 (Line 9. Last year, Interest/dividends/royalties.)
+    └─ ""
+  10030 (Line 9. Current year to date, Interest/dividends/royalties.)
+    └─ ""
+  10031 (Line 10. Third year, Payments from trust/partnerships/entities)
+    └─ ""
+  10032 (Line 10. Last year, Payments from trust/partnerships/entities)
+    └─ ""
+  10033 (Line 10. Current year to date, Payments from trust/partnerships/entities)
+    └─ ""
+  10034 (Line 11. Third year,  Child support)
+    └─ ""
+  10035 (Line 11. Last year, Child support)
+    └─ ""
+  10036 (Line 11. Current year to date, Child support)
+    └─ ""
+  10037 (Line 12. Third year, Alimony)
+    └─ ""
+  10038 (Line 12. Last year, Alimony)
+    └─ ""
+  10039 (Line 12. Current year to date, Alimony)
+    └─ ""
+  10040 (Line 13. Third year, Unemployment)
+    └─ ""
+  10041 (Line 13. Last year, Unemployment)
+    └─ ""
+  10042 (Line 13. Current year to date, Unemployment)
+    └─ ""
+  10043 (Line 14. Third year, Disability)
+    └─ ""
+  10044 (Line 14. Last year, Disability)
+    └─ ""
+  10045 (Line 14. Current year to date, Disability)
+    └─ ""
+  10046 (Line 15. Third year, Social Security)
+    └─ ""
+  10047 (Line 15. Last year, Social Security)
+    └─ ""
+  10048 (Line 15. Current year to date, Social Security)
+    └─ ""
+  10049 (Line 16. Third year, Ecommerce Sales)
+    └─ ""
+  10050 (Line 16. Last year, Ecommerce Sales)
+    └─ ""
+  10051 (Line 16. Current year to date, Ecommerce Sales)
+    └─ ""
+  10052 (Line 17. Other income source.)
+    └─ ""
+  10053 (Line 17. Third year, Other income source 1)
+    └─ ""
+  10054 (Line 17. Last year, Other income source 1)
+    └─ ""
+  10055 (Line 17. Current year to date, Other income source 1)
+    └─ ""
+  10056 (Line 18. Other income source.)
+    └─ ""
+  10057 (Line 18. Third year, Other income source 2)
+    └─ ""
+  10058 (Line 18. Last year, Other income source 2)
+    └─ ""
+  10059 (Line 18. Current year to date, Other income source 2)
+    └─ ""
+  10060 (Line 19. Other income source.)
+    └─ ""
+  10061 (Line 19. Third year, Other income source 3)
+    └─ ""
+  10062 (Line 19. Last year, Other income source 3)
+    └─ ""
+  10063 (Line 19. Current year to date, Other income source 3)
+    └─ ""
+  10064 (Line 20. Third year. Total Gross Household Income)
+    └─ ""
+  10065 (Line 20. Last year. Total Gross Household Income)
+    └─ ""
+  10066 (Line 20. Current year to date. Total Gross Household Income)
+    └─ ""
+  10067 (The following facts and reasons are submitted as grounds for acceptance of this offer. Attach additional pages if needed.)
+    └─ ""
+Page 14
+  11001 (Total Amount owed to FTB.)
+    └─ ""
+  11002 (Tax years of amount owed.)
+    └─ ""
+  11003 (The lump-sum of amount is offered in compromise. An FTB representative will instruct you when to mail the offer amount. Do not send any funds now. Enter amount.)
+    └─ ""
+  11004 RB
+    └─ :""
+  11006 RB
+    └─ :""
+  11007 (Name of Lender.)
+    └─ ""
+  11009 (Amount Borrowed.)
+    └─ ""
+  11014 RB
+    └─ :""
+  11015 (Name of Donor.)
+    └─ ""
+  11017 (Amount of Gift.)
+    └─ ""
+  11018 (Donor’s Relationship to You.)
+    └─ ""
+  11019 (c. Describe sources of offered funds other than those listed in a or b.)
+    └─ ""
+Page 15
+  12004 (Spouse's/Registered Domestic Partner's Signature Date. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  12003 (Spouse's or Registered Domestic Partner's Signature.)
+    └─ ""
+  12002 (Taxpayer's Signature Date. Enter date as a two-digit month/two-digit day/four-digit year.)
+    └─ ""
+  12001 (Taxpayer's Signature.)
+    └─ ""
