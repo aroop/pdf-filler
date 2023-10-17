@@ -13,8 +13,8 @@ public class FillPdfFormFields {
     public static void main(String[] args) {
         try {
             // Initialize PdfReader and PdfDocument
-            PdfReader pdfReader = new PdfReader("705.pdf");
-            PdfWriter pdfWriter = new PdfWriter("filled-output.pdf");
+            PdfReader pdfReader = new PdfReader("4905PIT.pdf");
+            PdfWriter pdfWriter = new PdfWriter("filled-output-4905PIT.pdf");
             PdfDocument pdfDocument = new PdfDocument(pdfReader, pdfWriter);
 
             // Retrieve AcroForm fields

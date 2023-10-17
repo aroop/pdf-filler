@@ -10,7 +10,7 @@ public class ReadPdfFormFields {
     public static void main(String[] args) {
         try {
             // Initialize PdfReader and PdfDocument
-            PdfReader pdfReader = new PdfReader("705.pdf");
+            PdfReader pdfReader = new PdfReader("4905PIT.pdf");
             PdfDocument pdfDocument = new PdfDocument(pdfReader);
 
             // Retrieve AcroForm fields

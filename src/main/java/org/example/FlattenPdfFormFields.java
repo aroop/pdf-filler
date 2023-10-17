@@ -13,8 +13,8 @@ public class FlattenPdfFormFields {
     public static void main(String[] args) {
         try {
             // Initialize PdfReader, PdfWriter, and PdfDocument
-            PdfReader pdfReader = new PdfReader("705.pdf");
-            PdfWriter pdfWriter = new PdfWriter("flatten-705.pdf");
+            PdfReader pdfReader = new PdfReader("4905PIT.pdf");
+            PdfWriter pdfWriter = new PdfWriter("flatten-4905PIT.pdf");
             PdfDocument pdfDocument = new PdfDocument(pdfReader, pdfWriter);
 
             // Retrieve and fill AcroForm fields
