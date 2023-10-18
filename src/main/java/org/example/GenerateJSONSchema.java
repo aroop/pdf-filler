@@ -19,7 +19,7 @@ public class GenerateJSONSchema {
 
     public static void main(String[] args) {
         try {
-            String pdfFileName = "705.pdf";
+            String pdfFileName = "4905PIT.pdf";
             // Initialize PdfReader and PdfDocument
             PdfReader pdfReader = new PdfReader(pdfFileName);
             PdfDocument pdfDocument = new PdfDocument(pdfReader);
@@ -92,7 +92,8 @@ public class GenerateJSONSchema {
             ObjectNode fieldNode = mapper.createObjectNode();
             String javaType = determineFieldType(field);
             fieldNode.put("type", javaType);
-            fieldNode.put("title", field.getAlternativeName().toString());
+            if (field.getAlternativeName() != null)
+                fieldNode.put("title", field.getAlternativeName().toUnicodeString());
             fieldNode.put("readOnly", field.isReadOnly());
             if (field.getDefaultValue() != null)
                 fieldNode.put("defaultValue", field.getDefaultValue().toString());
