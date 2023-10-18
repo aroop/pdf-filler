@@ -1,0 +1,324 @@
+{
+  "$schema" : "http://json-schema.org/draft/2019-09/schema#",
+  "$id" : "resource:/form/json/schema/705.schema.json.schema.json",
+  "type" : "object",
+  "title" : "FTB 705 - Innocent Joint Filer Relief Request (Relief From Paying California Income Taxes)",
+  "description" : "Subject: FTB 705 - Innocent Joint Filer Relief Request (Relief From Paying California Income Taxes), Keywords: 705, Innocent Joint Filer Relief Request, innocent spouse, innocent joint filer, Author: webmaster@ftb.ca.gov",
+  "additionalProperties" : false,
+  "properties" : {
+    "Text Field 1" : {
+      "type" : "string",
+      "title" : "Indicate the tax year(s) for which you request relief from liability of tax: ",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 1, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 2" : {
+      "type" : "string",
+      "title" : "First Name",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 2, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 16" : {
+      "type" : "string",
+      "title" : "First Name",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 16, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 3" : {
+      "type" : "string",
+      "title" : "Initial",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 3, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 17" : {
+      "type" : "string",
+      "title" : "Initial",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 17, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 4" : {
+      "type" : "string",
+      "title" : "Last Name",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 4, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 18" : {
+      "type" : "string",
+      "title" : "Last Name",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 18, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 5" : {
+      "type" : "string",
+      "title" : "Social Security Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 5, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 19" : {
+      "type" : "string",
+      "title" : "Social Security Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 19, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 6" : {
+      "type" : "string",
+      "title" : "Additional Information (in-care-of name and other supplemental address information)",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 6, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 20" : {
+      "type" : "string",
+      "title" : "Additional Information (in-care-of name and other supplemental address information)",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 20, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 7" : {
+      "type" : "string",
+      "title" : "PMB/Private Mailbox",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 7, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 21" : {
+      "type" : "string",
+      "title" : "PMB/Private Mailbox",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 21, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 8" : {
+      "type" : "string",
+      "title" : "Street Address (number and street) or PO Box",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 8, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 22" : {
+      "type" : "string",
+      "title" : "Street Address (number and street) or PO Box",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 22, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 9" : {
+      "type" : "string",
+      "title" : "Apartment Number/ Suite Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 9, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 23" : {
+      "type" : "string",
+      "title" : "Apartment Number/ Suite Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 23, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 10" : {
+      "type" : "string",
+      "title" : "City",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 10, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 24" : {
+      "type" : "string",
+      "title" : "City",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 24, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 11" : {
+      "type" : "string",
+      "title" : "State",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 11, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 25" : {
+      "type" : "string",
+      "title" : "State",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 25, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 12" : {
+      "type" : "string",
+      "title" : "ZIP Code",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 12, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 26" : {
+      "type" : "string",
+      "title" : "ZIP Code",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 26, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 13" : {
+      "type" : "string",
+      "title" : "Home Phone Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 13, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 27" : {
+      "type" : "string",
+      "title" : "Home Phone Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 27, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 14" : {
+      "type" : "string",
+      "title" : "Work Phone Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 14, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 28" : {
+      "type" : "string",
+      "title" : "Work Phone Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 28, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 15" : {
+      "type" : "string",
+      "title" : "Message/Other Phone Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 15, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 29" : {
+      "type" : "string",
+      "title" : "Message/Other Phone Number",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 29, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Check Box 1" : {
+      "type" : "string",
+      "title" : "Married/RDP",
+      "readOnly" : false,
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Check Box 1, Field Value: Off, Field Type: button",
+      "required" : false
+    },
+    "Check Box 4" : {
+      "type" : "string",
+      "title" : "Separated/RDP",
+      "readOnly" : false,
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Check Box 4, Field Value: Off, Field Type: button",
+      "required" : false
+    },
+    "Check Box 2" : {
+      "type" : "string",
+      "title" : "Legally Separated",
+      "readOnly" : false,
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Check Box 2, Field Value: Off, Field Type: button",
+      "required" : false
+    },
+    "Check Box 5" : {
+      "type" : "string",
+      "title" : "Divorced/RDP",
+      "readOnly" : false,
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Check Box 5, Field Value: Off, Field Type: button",
+      "required" : false
+    },
+    "Check Box 3" : {
+      "type" : "string",
+      "title" : "Divorce Pending",
+      "readOnly" : false,
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Check Box 3, Field Value: Off, Field Type: button",
+      "required" : false
+    },
+    "Check Box 6" : {
+      "type" : "string",
+      "title" : "RDP Termination Pending",
+      "readOnly" : false,
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Check Box 6, Field Value: Off, Field Type: button",
+      "required" : false
+    },
+    "Text Field 30" : {
+      "type" : "string",
+      "title" : "Date Married/Registered Domestic Partner",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 30, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 31" : {
+      "type" : "string",
+      "title" : "Date Separated/Registered Domestic Partner",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 31, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 32" : {
+      "type" : "string",
+      "title" : "Date Divorced/RDP Termination",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 1, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 32, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 33" : {
+      "type" : "string",
+      "title" : "Email Address (optional) Enter only one Email Address.",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 2, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 33, Field Value: , Field Type: text",
+      "required" : false
+    },
+    "Text Field 34" : {
+      "type" : "string",
+      "title" : "Date",
+      "readOnly" : false,
+      "defaultValue" : "",
+      "description" : "Page: 2, Mapping Name: null, Multiline: false, Password: false, Partial Field Name: Text Field 34, Field Value: , Field Type: text",
+      "required" : false
+    }
+  }
+}
