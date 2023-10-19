@@ -19,7 +19,7 @@ public class FlattenPdfFormFields {
 
             // Retrieve and fill AcroForm fields
             PdfAcroForm acroForm = PdfAcroForm.getAcroForm(pdfDocument, true);
-            Map<String, PdfFormField> fields = acroForm.getAllFormFields();
+            Map<String, PdfFormField> fields = acroForm.getFormFields();
             for (Map.Entry<String, PdfFormField> entry : fields.entrySet()) {
                 String key = entry.getKey();
                 PdfFormField field = entry.getValue();

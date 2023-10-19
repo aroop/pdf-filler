@@ -17,7 +17,7 @@ public class ReadPdfFormFields {
 
             // Retrieve AcroForm fields
             PdfAcroForm acroForm = PdfAcroForm.getAcroForm(pdfDocument, false);
-            Map<String, PdfFormField> fields = acroForm.getAllFormFields();
+            Map<String, PdfFormField> fields = acroForm.getFormFields();
 
             // Iterate through fields and print their attributes
             for (Map.Entry<String, PdfFormField> entry : fields.entrySet()) {
@@ -31,7 +31,7 @@ public class ReadPdfFormFields {
                 System.out.println("Multiline: " + field.isMultiline());
                 System.out.println("Password: " + field.isPassword());
                 System.out.println("Field value: " + field.getValueAsString());
-                System.out.println("PartialFieldName: " + field.getPartialFieldName());
+                System.out.println("PartialFieldName: " + field.getFieldName());
                 System.out.println("Is required: " + field.isRequired());
                 System.out.println("Default value: " + field.getDefaultValue());
                 System.out.println("Class name: " + field.getClass().getName());

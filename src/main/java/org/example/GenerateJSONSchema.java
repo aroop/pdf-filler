@@ -26,7 +26,7 @@ public class GenerateJSONSchema {
 
             // Retrieve AcroForm fields
             PdfAcroForm acroForm = PdfAcroForm.getAcroForm(pdfDocument, false);
-            Map<String, PdfFormField> fields = acroForm.getAllFormFields();
+            Map<String, PdfFormField> fields = acroForm.getFormFields();
 
             // Generate and print JSON Schema
             String schemaFileName = pdfFileName.replaceAll("\\.pdf$", ".schema.json");
@@ -115,7 +115,7 @@ public class GenerateJSONSchema {
         descriptionBuilder.append(", Mapping Name: ").append(field.getMappingName());
         descriptionBuilder.append(", Multiline: ").append(field.isMultiline());
         descriptionBuilder.append(", Password: ").append(field.isPassword());
-        descriptionBuilder.append(", Partial Field Name: ").append(field.getPartialFieldName());
+        descriptionBuilder.append(", Partial Field Name: ").append(field.getFieldName());
         descriptionBuilder.append(", Field Value: ").append(field.getValueAsString());
         descriptionBuilder.append(", Field Type: ").append(getFieldType(field));
         return descriptionBuilder.toString();

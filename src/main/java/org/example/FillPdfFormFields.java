@@ -19,7 +19,7 @@ public class FillPdfFormFields {
 
             // Retrieve AcroForm fields
             PdfAcroForm acroForm = PdfAcroForm.getAcroForm(pdfDocument, true);
-            Map<String, PdfFormField> fields = acroForm.getAllFormFields();
+            Map<String, PdfFormField> fields = acroForm.getFormFields();
 
             // Iterate through fields and fill them with test data
             for (Map.Entry<String, PdfFormField> entry : fields.entrySet()) {
